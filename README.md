@@ -21,7 +21,7 @@ therapeutics.
 
 ## The repository structure
 
-- utils.py - the module with text preprocessing functions.
-- 1-eda-preprocessing.ipynb - the notebook with exploratory data analysis and manually feature engineering for mental statuses classification task.
-- 2-baselines.ipynb - the notebook with training and evaluation of baseline models: Random Forest and Catboost.
-- 3-transformer.ipynb - the notebook with fine-tuning and evaluation MentalRoBERTa model.
+- `utils.py` - the module with text preprocessing functions.
+- `1-eda-preprocessing.ipynb` - the notebook with exploratory data analysis and manually feature engineering for mental statuses classification task.
+- `2-baselines.ipynb` - the notebook with training and evaluation of baseline models: Random Forest and Catboost.
+- `3-transformer.ipynb` - the notebook with fine-tuning and evaluation MentalRoBERTa model.
